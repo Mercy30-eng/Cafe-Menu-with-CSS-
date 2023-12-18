@@ -1,7 +1,7 @@
 THE 92-STEP HTML/CSS CHALLENGES TO COMPLETE A CAFE MENU
 ![camper-cafe](https://github.com/Mercy30-eng/Cafe-Menu-with-CSS-/assets/85012190/8318b718-5500-4c67-a072-1fbee1ab90b0)
 
-<h1>Step 1</h1>h1>
+<h1>Step 1</h1>
 Basic structure needed to start building your web page. Add the tag, and an html element with a lang attribute of en.
 
 Step 2
